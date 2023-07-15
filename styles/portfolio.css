@@ -170,5 +170,7 @@ margin-bottom: 10px;
 footer{
     display: flex;
     background-color: #fff8f3;
+    margin-top: 100px;
     padding: 130px 200px;
+
 }
